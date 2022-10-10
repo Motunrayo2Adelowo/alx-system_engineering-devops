@@ -1,2 +1,2 @@
 #!/bin/bash
-./0-hello_world | cat -e Hello, World
+file /tmp ./0-hello_world | cat Hello.World
