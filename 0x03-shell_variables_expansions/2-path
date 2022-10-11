@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH+$PATH1/action
+PATH=$PATH:/action
